@@ -1,0 +1,20 @@
+[
+    {
+        "name": "amoxicillin",
+        "strength": 250,
+        "packSize": 20,
+        "totalPacks": 5
+    },
+    {
+        "name": "paracetamol",
+        "strength": 250,
+        "packSize": 20,
+        "totalPacks": 10
+    },
+    {
+        "name": "diclofenac",
+        "strength": 250,
+        "packSize": 25,
+        "totalPacks": 5
+    }
+]
