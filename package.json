@@ -1,0 +1,25 @@
+{
+  "name": "truepill-tech-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrakeeb/Truepill-Tech-Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrakeeb/Truepill-Tech-Task/issues"
+  },
+  "homepage": "https://github.com/nrakeeb/Truepill-Tech-Task#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "util": "^0.12.4",
+    "uuid": "^8.3.2",
+    "console.table": "^0.10.0"
+  }
+}
