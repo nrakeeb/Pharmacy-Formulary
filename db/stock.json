@@ -1,0 +1,38 @@
+[
+    {
+        "name": "amoxicillin",
+        "strength": "250mg",
+        "packSize": "20",
+        "totalPacks": "5"
+    },
+    {
+        "name": "paracetamol",
+        "strength": "30mg",
+        "packSize": "10",
+        "totalPacks": "50"
+    },
+    {
+        "name": "Codeine",
+        "strength": "30mg",
+        "packSize": "10",
+        "totalPacks": "30"
+    },
+    {
+        "name": "Warfarin",
+        "strength": "3mg",
+        "packSize": "60",
+        "totalPacks": "20"
+    },
+    {
+        "name": "Tramadol",
+        "strength": "50mg",
+        "packSize": "20",
+        "totalPacks": "5"
+    },
+    {
+        "name": "simvastatin",
+        "strength": "20mg",
+        "packSize": "10",
+        "totalPacks": 20
+    }
+]
