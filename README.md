@@ -6,7 +6,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
+  - [Screenshots](#Screenshots)
   - [Testing](#testing)
 
  
@@ -31,8 +31,8 @@
   This application is covered by the MIT license.
 
 
-  ## 👪 Contribution:
-  N.A
+  ## Screenshots:
+  
 
 
   ## ✏️ Testing:
